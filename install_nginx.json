@@ -1,0 +1,6 @@
+{
+  "fileUris": [
+    "https://raw.githubusercontent.com/sebastian-m-gzz/scripts/main/install_nginx.sh"
+    ],
+  "commandToExecute": "./install_nginx.sh"
+}
